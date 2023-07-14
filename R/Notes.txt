@@ -1,0 +1,5 @@
+help()
+help("if")
+reserved words [ if , else , next , break , while , repeat, TRUE, funtion , in ]
+typeof(4L) -interger
+typeof(5)  - double
